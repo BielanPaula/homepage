@@ -1,11 +1,27 @@
-body {
-    background-color: #fefefe;
+.menu {
+  background-color: #804150;
 }
 
-h2 {
-    color: #1460AA;
+.header {
+    background-color: #CC6980;
+    color: white;
 }
 
-.mainHeader {
-    background-color: grey;
+.aboutMe,
+.diary {
+  color: #804150;
+}
+
+
+
+.introduction {
+  background-color: #FFCFDA;
+}
+
+.allArticles {
+  background-color: #FFCFDA;
+}
+
+.day {
+  color: #80676D;
 }
