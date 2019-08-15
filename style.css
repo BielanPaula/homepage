@@ -2,6 +2,12 @@ body {
   background-color: #fefefe;
 }
 
+.main {
+  margin: 10px auto;
+  width: 100%;
+  max-width: 700px;
+}
+
 .header {
     color: #006DAA;
 }
