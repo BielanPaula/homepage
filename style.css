@@ -6,15 +6,15 @@ body {
     color: #006DAA;
 }
 
-.aboutMe,
+.introduction__aboutMe,
 .diary {
   color: #003559;
 }
 
-.day {
+.article__day {
   color: #C6878F;
 }
 
-.menuElement, .link {
+.menuElement, .article__link {
   color: #444545;
 }
