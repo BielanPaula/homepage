@@ -1,27 +1,20 @@
-.menu {
-  background-color: #804150;
+body {
+  background-color: #fefefe;
 }
 
 .header {
-    background-color: #CC6980;
-    color: white;
+    color: #006DAA;
 }
 
 .aboutMe,
 .diary {
-  color: #804150;
-}
-
-
-
-.introduction {
-  background-color: #FFCFDA;
-}
-
-.allArticles {
-  background-color: #FFCFDA;
+  color: #003559;
 }
 
 .day {
-  color: #80676D;
+  color: #C6878F;
+}
+
+.menuElement, .link {
+  color: #444545;
 }
